@@ -1,4 +1,4 @@
-[![We sell your Vinyl](SLOGAN.svg)](https://laden3punkt0.com)
+[![We sell your Vinyl](/profile/SLOGAN.svg)](https://laden3punkt0.com)
 
 ## If you ask yourself the question
 
