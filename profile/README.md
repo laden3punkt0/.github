@@ -1,4 +1,4 @@
-![We sell your Vinyl](https://github.com/user-attachments/assets/d1c93feb-a69f-41e0-891d-7da823de7dd1)
+[![We sell your Vinyl](SLOGAN.svg)](https://laden3punkt0.com)
 
 ## If you ask yourself the question
 
